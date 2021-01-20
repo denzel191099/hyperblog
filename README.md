@@ -13,5 +13,7 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Si sus hermanitos Lionel and Alex
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
+* Incluye un tutorial completo de todo lo que necesitasz saber 
+* Disponible para todas las tipos de carreras que necesitan aprender estae hermoso arte de progrmara y crear software
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
